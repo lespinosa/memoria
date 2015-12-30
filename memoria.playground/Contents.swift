@@ -2,8 +2,6 @@
 
 import UIKit
 
-var str = "Hello, playground"
-
 for i in 0...100 {
 
     if i % 10 == 5 || i % 10 == 0 {
